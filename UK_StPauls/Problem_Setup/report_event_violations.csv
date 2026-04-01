@@ -1,0 +1,11 @@
+solution_group_id,solution_index,event_reference,constraint_reference,cost,description
+GOAL team Thu Feb 12 02:10:16 2015,0,Dt (11A)_42900,AssignTimes_2,1,
+GOAL team Thu Feb 12 02:10:16 2015,0,Dt (11U)_43000,AssignTimes_2,1,
+GOAL team Thu Feb 12 02:10:16 2015,0,Dt (11L)_43100,AssignTimes_2,1,
+GOAL team Thu Feb 12 02:10:16 2015,0,Dt (11h1)_43200,AssignTimes_2,1,
+GOAL team Thu Feb 12 02:10:16 2015,0,Dt (11h2)_43300,AssignTimes_2,1,
+GOAL team Thu Feb 12 02:10:16 2015,0,Dt (8A)_16800,AssignTimes_2,1,
+GOAL team Thu Feb 12 02:10:16 2015,0,Dt (8U)_16900,AssignTimes_2,1,
+GOAL team Thu Feb 12 02:10:16 2015,0,Dt (8L)_17000,AssignTimes_2,1,
+GOAL team Thu Feb 12 02:10:16 2015,0,Dt (8h1)_17100,AssignTimes_2,1,
+GOAL team Thu Feb 12 02:10:16 2015,0,Dt (8h2)_17200,AssignTimes_2,1,

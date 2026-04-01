@@ -1,0 +1,9 @@
+instance_id,constraint_id,constraint_type,name,required,weight,cost_function
+UK-SP-06,AssignResources_1,AssignResourceConstraint,AssignRooms,true,1,Linear
+UK-SP-06,AssignTimes_2,AssignTimeConstraint,AssignTimes,true,1,Linear
+UK-SP-06,SpreadEvents_5,SpreadEventsConstraint,SpreadEventsConstraint,true,1,Linear
+UK-SP-06,SpreadEvents_6,SpreadEventsConstraint,SpreadEventsConstraint,true,1,Linear
+UK-SP-06,LinkEventsConstraint_7,LinkEventsConstraint,LinkEventsConstraint,true,1000,Linear
+UK-SP-06,NoResourceClashes_8,AvoidClashesConstraint,NoResourceClashes,true,1,Linear
+UK-SP-06,FreePeriodsConstraint_14,LimitIdleTimesConstraint,Niet meer dan 0 tussenuren (gewicht 10),false,10,Quadratic
+UK-SP-06,FreePeriodsConstraint_15,LimitIdleTimesConstraint,Niet meer dan 0 tussenuren (gewicht 2),false,2,Quadratic

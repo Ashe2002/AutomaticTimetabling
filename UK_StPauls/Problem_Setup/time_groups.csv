@@ -1,0 +1,6 @@
+instance_id,group_id,group_type,name
+UK-SP-06,gr_Day_ma,Day,ma
+UK-SP-06,gr_Day_di,Day,di
+UK-SP-06,gr_Day_wo,Day,wo
+UK-SP-06,gr_Day_do,Day,do
+UK-SP-06,gr_Day_vr,Day,vr

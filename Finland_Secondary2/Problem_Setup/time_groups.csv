@@ -1,0 +1,8 @@
+instance_id,group_id,group_type,name
+FinlandSecondarySchool2_XHSTT-v2014,gr_Mo,Day,Mo
+FinlandSecondarySchool2_XHSTT-v2014,gr_Tu,Day,Tu
+FinlandSecondarySchool2_XHSTT-v2014,gr_We,Day,We
+FinlandSecondarySchool2_XHSTT-v2014,gr_Th,Day,Th
+FinlandSecondarySchool2_XHSTT-v2014,gr_Fr,Day,Fr
+FinlandSecondarySchool2_XHSTT-v2014,gr_TimesDurationTwo,TimeGroup,TimesDurationTwo
+FinlandSecondarySchool2_XHSTT-v2014,gr_TimesDurationThree,TimeGroup,TimesDurationThree

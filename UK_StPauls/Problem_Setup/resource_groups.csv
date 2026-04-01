@@ -1,0 +1,4 @@
+instance_id,resource_group_id,name,resource_type_ref
+UK-SP-06,gr_Teachers,allTeachers,Teacher
+UK-SP-06,gr_Classes,allClasses,Class
+UK-SP-06,gr_Rooms,allRooms,Room

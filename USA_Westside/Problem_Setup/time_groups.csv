@@ -1,0 +1,9 @@
+instance_id,group_id,group_type,name
+US-WS-09,Day_0,Day,Day_0
+US-WS-09,Day_1,Day,Day_1
+US-WS-09,Day_2,Day,Day_2
+US-WS-09,Day_3,Day,Day_3
+US-WS-09,Day_4,Day,Day_4
+US-WS-09,gr_TimesDurationTwo,TimeGroup,TimesDurationTwo
+US-WS-09,gr_TimesDurationThree,TimeGroup,TimesDurationThree
+US-WS-09,gr_TimesDurationFour,TimeGroup,TimesDurationFour
