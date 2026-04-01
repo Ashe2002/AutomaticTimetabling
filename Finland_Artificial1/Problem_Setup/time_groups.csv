@@ -1,0 +1,10 @@
+group_id,group_type,name
+gr_Mo,Day,Mo
+gr_Tu,Day,Tu
+gr_We,Day,We
+gr_Th,Day,Th
+gr_Fr,Day,Fr
+gr_AllTimes,TimeGroup,AllTimes
+gr_TimesDurationTwo,TimeGroup,TimesDurationTwo
+gr_TimesDurationThree,TimeGroup,TimesDurationThree
+gr_TimesDurationFour,TimeGroup,TimesDurationFour

@@ -1,0 +1,7 @@
+instance_id,resource_group_id,name,resource_type_ref
+FinlandArtificialSchool_XHSTT2012,gr_Teachers,allTeachers,Teacher
+FinlandArtificialSchool_XHSTT2012,gr_Classes,allClasses,Class
+FinlandArtificialSchool_XHSTT2012,gr_Rooms,allRooms,Room
+FinlandArtificialSchool_XHSTT2012,gr_Rooms_X,X_Rooms,Room
+FinlandArtificialSchool_XHSTT2012,gr_Rooms_Y,Y_Rooms,Room
+FinlandArtificialSchool_XHSTT2012,gr_Rooms_Z,Z_Rooms,Room

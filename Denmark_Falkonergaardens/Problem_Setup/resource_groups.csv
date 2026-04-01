@@ -1,0 +1,4 @@
+instance_id,resource_group_id,name,resource_type_ref
+DK-FG-12,RGAllRooms,RGAllRooms,Room
+DK-FG-12,RGAllStudents,RGAllStudents,Student
+DK-FG-12,RGAllTeachers,RGAllTeachers,Teacher
