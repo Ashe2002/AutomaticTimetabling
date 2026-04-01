@@ -1,0 +1,9 @@
+instance_id,group_id,group_type,name
+FinlandCollege_XHSTT2012,gr_Mo,Day,Mo
+FinlandCollege_XHSTT2012,gr_Tu,Day,Tu
+FinlandCollege_XHSTT2012,gr_We,Day,We
+FinlandCollege_XHSTT2012,gr_Th,Day,Th
+FinlandCollege_XHSTT2012,gr_Fr,Day,Fr
+FinlandCollege_XHSTT2012,gr_AllTimes,TimeGroup,AllTimes
+FinlandCollege_XHSTT2012,gr_TimesDurationTwo,TimeGroup,TimesDurationTwo
+FinlandCollege_XHSTT2012,gr_TimesDurationThree,TimeGroup,TimesDurationThree

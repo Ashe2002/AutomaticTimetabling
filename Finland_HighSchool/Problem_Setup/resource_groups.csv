@@ -1,0 +1,4 @@
+instance_id,resource_group_id,name,resource_type_ref
+FinlandHighSchool_XHSTT2012,gr_Teachers,allTeachers,Teacher
+FinlandHighSchool_XHSTT2012,gr_Classes,allClasses,Class
+FinlandHighSchool_XHSTT2012,gr_Rooms,allRooms,Room
