@@ -1,0 +1,1 @@
+Edinburgh University Integrated Master's Dissertation project focusing on the application of Mixed Integer Programming to solve Highschool Timetabling Problems. To ensure feasibility and computational tractability a 3-stagfe decomposition approach is taken.
